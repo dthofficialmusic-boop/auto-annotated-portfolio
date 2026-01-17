@@ -72,11 +72,8 @@ sections:
       - type: FeaturedItem
         subtitle: Physical Offices
         text: >+
-          OFFICES
-
-
-          Main Office — for the world excluding the United States and Canada
-          (Cayman)
+          **Main Office — for the world excluding the United States and Canada
+          (Cayman)**
 
 
           *   40 Frank Sound Rd. North Side Grand Cayman
@@ -84,12 +81,10 @@ sections:
 
 
 
-          Satellite Office — servicing the Continental U.S. and Canada
+          **Satellite Office — servicing the Continental U.S. and Canada**
 
 
           *   5031 SW 199th Ave Southwest Ranches, Florida
-
-
 
         styles:
           self:
