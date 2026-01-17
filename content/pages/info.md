@@ -71,18 +71,26 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          OFFICES
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          Main Office — for the world excluding the United States and Canada
+          (Cayman)
 
-          * react certificate somewhere
 
-          **2011**
+          *   40 Frank Sound Rd. North Side Grand Cayman
 
-          * my highschool
+
+
+
+          Satellite Office — servicing the Continental U.S. and Canada
+
+
+          *   5031 SW 199th Ave Southwest Ranches, Florida
+
+
+
         styles:
           self:
             textAlign: left
