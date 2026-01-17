@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The function of subscriber management is critical, and Cortidor administers
+  this for the platform comprehensively. It ensures audiences are not only
+  acquired but seamlessly integrated and consistently retained.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
