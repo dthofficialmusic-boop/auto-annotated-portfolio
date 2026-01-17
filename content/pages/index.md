@@ -166,34 +166,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: I'm Focused
-        subtitle: ''
-        text: |+
-          **Artist Management & Recruitment**
-
-          artists\@cotidor.com
-
-
-
-
-
-
-
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-d
     columns: 2
