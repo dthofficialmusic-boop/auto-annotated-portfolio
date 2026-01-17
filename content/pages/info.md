@@ -45,7 +45,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: Contact
         text: |-
           **Current**
 
