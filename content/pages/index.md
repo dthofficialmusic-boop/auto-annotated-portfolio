@@ -131,14 +131,13 @@ sections:
         subtitle: ''
         text: |+
           **General Inquiries**
-
           info\@cotidor.com
+          **
+          Artist Management & Recruitment**
+          artists\@cotidor.com
 
-
-
-
-
-
+          **Strategic Partnerships & Brand Collaborations**
+          partners\@cotidor.com
 
         actions: []
         elementId: ''
