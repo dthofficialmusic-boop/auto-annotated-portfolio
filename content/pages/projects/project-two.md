@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: PROMOTION
 colors: colors-a
-date: '2021-12-20'
+date: '0002-12-20'
 client: Awesome client
 description: >-
   The value of promotion in the music industry is essential, and Cortidor
