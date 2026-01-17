@@ -123,4 +123,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+socialImage: /images/IMG_5663.png
 ---
