@@ -129,16 +129,19 @@ sections:
       - type: FeaturedItem
         title: EMAIL(S)
         subtitle: ''
-        text: |+
+        text: |
           **General Inquiries**
-          info\@cotidor.com
-          **
-          Artist Management & Recruitment**
-          artists\@cotidor.com
+          <info@cotidor.com>
+
+
+
+          **Artist Management & Recruitment**
+          <artists@cotidor.com>
+
+
 
           **Strategic Partnerships & Brand Collaborations**
-          partners\@cotidor.com
-
+          <partners@cotidor.com>
         actions: []
         elementId: ''
         styles:
