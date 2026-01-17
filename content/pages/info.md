@@ -70,7 +70,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: Physical Offices
         text: >+
           OFFICES
 
