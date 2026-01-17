@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: GUIDANCE
 colors: colors-a
-date: '2021-10-15'
+date: '2026-01-15'
 client: Awesome client
 description: >-
   The function of subscriber management is critical, and Cortidor administers
