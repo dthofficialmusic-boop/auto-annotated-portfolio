@@ -2,8 +2,8 @@
 type: ProjectLayout
 title: DEVELOPMENT
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '2026-01-16'
+client: Yllona Madison Ebanks
 description: >-
   The role of strategic development in a music career is fundamental, and
   Cortidor provides that for artists meticulously. It ensures their creative

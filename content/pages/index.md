@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/bg3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -31,8 +31,8 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: row-reverse
-        textAlign: left
+        flexDirection: row
+        textAlign: center
     type: HeroSection
     actions: []
   - colors: colors-f
@@ -123,4 +123,5 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+socialImage: /images/IMG_5663.png
 ---

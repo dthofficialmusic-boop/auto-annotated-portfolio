@@ -2,8 +2,8 @@
 type: ProjectLayout
 title: GUIDANCE
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2026-01-17'
+client: Yllona Madison Ebanks
 description: >-
   The function of subscriber management is critical, and Cortidor administers
   this for the platform comprehensively. It ensures audiences are not only
