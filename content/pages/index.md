@@ -157,10 +157,24 @@ sections:
       - type: FeaturedItem
         title: I'm Smart
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          **Main Office — for the world excluding the United States and
+          Canada** 
+
+
+          *   40 Frank Sound Rd. North Side Grand Cayman
+
+
+          **Satellite Office — servicing the Continental U.S. and Canada**
+
+
+          *   5031 SW 199th Ave Southwest Ranches, Florida
+
+
+
+
+
+
         actions: []
         elementId: ''
         styles:
