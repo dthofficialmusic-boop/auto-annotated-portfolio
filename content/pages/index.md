@@ -123,5 +123,78 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+  - type: FeaturedItemsSection
+    title: Contact
+    items:
+      - type: FeaturedItem
+        title: EMAIL(S)
+        subtitle: ''
+        text: |+
+          **General Inquiries**
+
+
+          <info@cotidor.com>
+
+
+
+          **Artist Management & Recruitment**
+
+
+          <artists@cotidor.com>
+
+
+
+          **Strategic Partnerships & Brand Collaborations**
+
+
+          <partners@cotidor.com>
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: OFFICE(S)
+        subtitle: ''
+        text: >+
+          **Main Office — for the world excluding the United States and
+          Canada** 
+
+
+          *   40 Frank Sound Rd. North Side Grand Cayman
+
+
+          **Satellite Office — servicing the Continental U.S. and Canada**
+
+
+          *   5031 SW 199th Ave Southwest Ranches, Florida
+
+
+
+
+
+
+        actions: []
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-d
+    columns: 2
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: left
 socialImage: /images/IMG_5663.png
 ---
