@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: DEVELOPMENT
 colors: colors-a
-date: '2026-01-17'
+date: '2026-01-16'
 client: Awesome client
 description: >-
   The role of strategic development in a music career is fundamental, and
