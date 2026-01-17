@@ -127,7 +127,7 @@ sections:
     title: Contact
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: EMAIL(S)
         subtitle: ''
         text: |+
           **General Inquiries**
