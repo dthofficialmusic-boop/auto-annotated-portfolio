@@ -155,7 +155,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: OFFICE
         subtitle: ''
         text: >+
           **Main Office — for the world excluding the United States and
