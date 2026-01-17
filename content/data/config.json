@@ -1,58 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/IMG_5663.png",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "COTIDOR",
-        "isTitleVisible": false,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            }
-        ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "narrow"
-            }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/IMG_5663.png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [
