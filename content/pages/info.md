@@ -73,13 +73,11 @@ sections:
       - type: FeaturedItem
         subtitle: Physical Offices
         text: >+
-          **Main Office — for the world excluding the United States and Canada
-          (Cayman)**
+          **Main Office — for the world excluding the United States and
+          Canada** 
 
 
           *   40 Frank Sound Rd. North Side Grand Cayman
-
-
 
 
           **Satellite Office — servicing the Continental U.S. and Canada**
