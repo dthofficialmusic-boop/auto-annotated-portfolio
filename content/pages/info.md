@@ -46,26 +46,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: Contact
-        text: |-
-          **Current**
+        text: |+
+          For inquiries, the preferred way of contact is Email
 
-          * freelance @freelance.me
 
-          **2018-2021**
 
-          * fullstack at this startup
+          **General Inquiries**
 
-          **2015**
+          info\@cotidor.com
 
-          * senior front-end at this place
 
-          **2013**
 
-          * intern developer at a big company
+          **Artist Management & Recruitment**
 
-          **2011**
+          artists\@cotidor.com
 
-          * flipping burgers
+
+
+          **Strategic Partnerships & Brand Collaborations**
+
+          partnerships\@cotidor.com
+
         styles:
           self:
             textAlign: left
