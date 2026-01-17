@@ -3,7 +3,7 @@ type: ProjectLayout
 title: PROMOTION
 colors: colors-a
 date: '2026-01-17'
-client: Awesome client
+client: Yllona Madison Ebanks
 description: >-
   The value of promotion in the music industry is essential, and Cortidor
   handles that for artists effectively. It ensures their work reaches the right
