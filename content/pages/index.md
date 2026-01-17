@@ -155,7 +155,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: OFFICE
+        title: OFFICE(S)
         subtitle: ''
         text: >+
           **Main Office — for the world excluding the United States and
