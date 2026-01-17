@@ -124,7 +124,7 @@ sections:
         flexDirection: row
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Contact
     items:
       - type: FeaturedItem
         title: I'm Fast
