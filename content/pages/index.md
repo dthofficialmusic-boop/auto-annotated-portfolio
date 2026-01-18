@@ -10,6 +10,63 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: ContactSection
+    title: Contact Me
+    text: I'm look forward to hearing from you.
+    colors: colors-a
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        flexDirection: row
+        textAlign: center
+  - type: LabelsSection
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: WEB 1, 2, 3
+        url: ''
+      - type: Label
+        label: React
+        url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
+      - type: Label
+        label: Next.js
+        url: ''
+      - type: Label
+        label: Netlify
+        url: ''
+      - type: Label
+        label: Pancakes
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: Swift
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
