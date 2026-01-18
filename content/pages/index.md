@@ -51,7 +51,7 @@ sections:
       - type: Label
         label: FAQ
         url: /faq
-    colors: colors-a
+    colors: colors-f
     elementId: ''
     styles:
       self:
