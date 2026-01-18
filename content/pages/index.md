@@ -12,9 +12,9 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: COTIDOR
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+
+
     actions: []
     colors: colors-a
     backgroundSize: full
