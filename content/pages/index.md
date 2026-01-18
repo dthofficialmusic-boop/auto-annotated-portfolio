@@ -50,7 +50,7 @@ sections:
         url: ''
       - type: Label
         label: FAQ
-        url: ''
+        url: /faq
     colors: colors-f
     elementId: ''
     styles:
