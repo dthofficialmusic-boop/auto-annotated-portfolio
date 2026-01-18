@@ -31,7 +31,7 @@ sections:
         flexDirection: col
         textAlign: left
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: COTIDOR—A MODERN TAKE on music
     subtitle: >-
