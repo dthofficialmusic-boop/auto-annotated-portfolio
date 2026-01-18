@@ -40,9 +40,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: React
-        url: ''
-      - type: Label
         label: Next.js
         url: ''
       - type: Label
