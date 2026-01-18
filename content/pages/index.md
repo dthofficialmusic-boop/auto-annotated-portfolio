@@ -36,7 +36,7 @@ sections:
     type: HeroSection
     actions: []
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: ''
     items:
       - type: Label
