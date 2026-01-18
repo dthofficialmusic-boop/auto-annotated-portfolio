@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: COTIDOR—A MODERN TAKE on music
     subtitle: >-
-      COTIDOR IS AN INDEPENDENT MUSIC MANAGEMENT COMPANY AIMING TO UPLIFT AND
-      EMPOWER ARTISTS.
+      WE ARE AN ARTIST DEVELOPMENT COLLECTIVE AIMING TO EMPOWER, GUIDE, AND
+      TRANSFORM ARTISTS—ON THEIR OWN TERMS.
     styles:
       self:
         height: auto
