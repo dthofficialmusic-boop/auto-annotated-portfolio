@@ -16,7 +16,7 @@ sections:
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
     actions: []
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
