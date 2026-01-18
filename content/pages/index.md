@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: ''
+    title: COTIDOR
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
