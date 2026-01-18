@@ -10,31 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: COTIDOR—A MODERN TAKE on music
-    subtitle: >-
-      WE ARE AN ARTIST DEVELOPMENT COLLECTIVE AIMING TO EMPOWER, GUIDE, AND
-      TRANSFORM ARTISTS—ON THEIR OWN TERMS.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: center
-    type: HeroSection
-    actions: []
   - type: LabelsSection
     title: ''
     subtitle: ''
@@ -63,6 +38,31 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: COTIDOR—A MODERN TAKE on music
+    subtitle: >-
+      WE ARE AN ARTIST DEVELOPMENT COLLECTIVE AIMING TO EMPOWER, GUIDE, AND
+      TRANSFORM ARTISTS—ON THEIR OWN TERMS.
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        flexDirection: row
+        textAlign: center
+    type: HeroSection
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
