@@ -10,6 +10,26 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: CtaSection
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        flexDirection: col
+        textAlign: left
   - elementId: ''
     colors: colors-a
     backgroundSize: full
@@ -35,26 +55,6 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-  - type: CtaSection
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        flexDirection: col
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
