@@ -40,7 +40,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Netlify
+        label: INFO
         url: ''
       - type: Label
         label: Pancakes
