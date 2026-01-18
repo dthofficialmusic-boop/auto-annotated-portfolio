@@ -10,23 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: ContactSection
-    title: Contact Me
-    text: I'm look forward to hearing from you.
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
