@@ -11,18 +11,9 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: "# Our Mission\n\nCotidor was founded on a simple, powerful belief: extraordinary talent should be heard. In a digital age saturated with content, emerging artists often struggle to break through the noise. Cotidor exists as a dedicated platform to provide the strategic amplification and foundational support that turns potential into presence.\n\nWe are more than a service—we are a partner in the journey. Founded by Yllona Madison Ebanks, Cotidor was born from firsthand recognition of the gap between raw artistic brilliance and sustainable audience growth. Our mission is to bridge that gap, offering the tools, strategy, and advocacy that allow artists to focus on what they do best: creating.\n\n### Our Core Services\n\n#### **1. Strategic Promotion & Digital Amplification**\n\nWe transform your music into a moving target that algorithms and audiences can’t ignore.\n\n*   Organic Growth from the Cotidor Hub:\_We leverage our curated platform and social channels to introduce our community to your sound, providing a stamp of discovery and credibility.\n\n*   Precision-Targeted Advertising:\_We design and execute sophisticated ad campaigns (Instagram, Meta, streaming platforms) that place your music in front of listeners most likely to become fans, based on detailed demographic and behavioral data.\n\n*   Cross-Platform Narrative Building:\_We ensure your release tells a compelling story across all digital touchpoints, creating a cohesive and engaging fan experience.\n\n#### **2. Artist Development & Career Roadmapping**\n\nWe build the blueprint for your long-term journey, not just your next release.\n\n*   Strategic Content Planning:\_We collaborate with you to build a release calendar and content roadmap that aligns your artistic vision with market opportunities.\n\n*   Brand & Narrative Development:\_We help clarify and amplify your unique story, ensuring your visual identity and messaging are consistent, professional, and authentic.\n\n*   Goal-Oriented Strategy:\_We work with you to define milestones—from playlist placements to sync licensing goals—and create a actionable plan to achieve them.\n\n#### **3. Industry Liaison & Access**\n\nWe open doors. Cotidor acts as your representative to the wider music ecosystem.\n\n*   Playlist Pitching:\_We utilize our network to pitch your music to independent and major streaming platform curators.\n\n*   Sync Licensing Advocacy:\_We identify and pitch your tracks for opportunities in film, television, and advertising.\n\n*   Partner Introductions:\_We facilitate connections with trusted producers, video directors, and booking agents to expand your creative and professional network.\n\n#### **4. Community Management & Fan Retention**\n\nWe help you build and nurture your most valuable asset: your fanbase.\n\n*   Subscriber Strategy:\_We develop systems to convert listeners into subscribers and engaged community members through exclusive content and seamless onboarding.\n\n*   Fan Relationship Nurturing:\_We design communication flows to keep your audience engaged, informed, and invested in your evolution over time.\n\n*   Data-Driven Engagement:\_We analyze fan behavior to personalize interactions and maximize the lifetime value of your supporter base.\n\n### **Why Cotidor?**\n\nWe understand that an artist's journey is multidimensional. Success requires more than a one-time boost; it requires a holistic ecosystem of support. Cotidor integrates promotion, development, industry access, and community building into a single, synergistic framework.\n\nWe are selective in our partnerships, choosing to work deeply with artists whose work we genuinely believe in. This ensures our passion matches yours, and our strategic efforts are fueled by a shared commitment to your authentic growth.\n\n### **Founder’s Vision**\n\n*\"Cotidor was imagined from a place of shared frustration and unwavering optimism. I saw too many brilliant artists with the talent to captivate the world, but lacking the specific toolkit to navigate it. We are here to be that toolkit—to provide the strategic clarity, the impactful exposure, and the unwavering support that allows artists to rise. This isn't just about plays; it's about building legacies.\"*\n— Yllona Madison Ebanks, Founder\n\n"
     styles:
       self:
         height: auto
@@ -50,221 +41,50 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: Contact
+        text: |+
+          For inquiries, the preferred way of contact is Email
 
-          * freelance @freelance.me
 
-          **2018-2021**
 
-          * fullstack at this startup
+          **General Inquiries**
 
-          **2015**
+          info\@cotidor.com
 
-          * senior front-end at this place
 
-          **2013**
 
-          * intern developer at a big company
+          **Artist Management & Recruitment**
 
-          **2011**
+          artists\@cotidor.com
 
-          * flipping burgers
+
+
+          **Strategic Partnerships & Brand Collaborations**
+
+          partnerships\@cotidor.com
+
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        subtitle: Physical Offices
+        text: >+
+          **Main Office — for the world excluding the United States and
+          Canada** 
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   40 Frank Sound Rd. North Side Grand Cayman
 
-          * react certificate somewhere
 
-          **2011**
+          **Satellite Office — servicing the Continental U.S. and Canada**
 
-          * my highschool
+
+          *   5031 SW 199th Ave Southwest Ranches, Florida
+
         styles:
           self:
             textAlign: left
@@ -294,8 +114,8 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
+    title: Let’s talk... 💬
+    colors: colors-b
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -333,7 +153,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submit 🚀
       styles:
         self:
           textAlign: center
