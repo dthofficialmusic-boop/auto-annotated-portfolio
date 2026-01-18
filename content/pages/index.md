@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: COTIDOR—A MODERN TAKE to music
+    title: COTIDOR—A MODERN TAKE on music
     subtitle: >-
       COTIDOR IS AN INDEPENDENT MUSIC MANAGEMENT COMPANY AIMING TO UPLIFT AND
       EMPOWER ARTISTS.
