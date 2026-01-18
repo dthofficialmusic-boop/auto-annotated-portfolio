@@ -10,35 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: CtaSection
-    title: COTIDOR
-    text: |+
-
-
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /info
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        flexDirection: col
-        textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: full
