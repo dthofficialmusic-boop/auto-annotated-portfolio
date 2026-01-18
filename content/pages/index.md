@@ -15,7 +15,16 @@ sections:
     text: |+
 
 
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /info
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-a
     backgroundSize: full
     elementId: ''
