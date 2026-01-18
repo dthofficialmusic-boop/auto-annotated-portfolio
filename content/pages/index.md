@@ -44,7 +44,7 @@ sections:
         url: ''
       - type: Label
         label: INSTAGRAM
-        url: ''
+        url: https://www.instagram.com/thecotidor/
       - type: Label
         label: C++
         url: ''
