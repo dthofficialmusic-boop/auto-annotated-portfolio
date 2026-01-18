@@ -13,7 +13,7 @@ sections:
   - type: ContactSection
     title: Contact Me
     text: I'm look forward to hearing from you.
-    colors: colors-f
+    colors: colors-a
     backgroundSize: inset
     elementId: ''
     styles:
