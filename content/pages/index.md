@@ -43,7 +43,7 @@ sections:
         label: INFO
         url: ''
       - type: Label
-        label: Pancakes
+        label: INSTAGRAM
         url: ''
       - type: Label
         label: C++
