@@ -14,7 +14,7 @@ sections:
     title: Contact Me
     text: I'm look forward to hearing from you.
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
