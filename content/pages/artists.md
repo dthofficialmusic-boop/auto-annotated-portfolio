@@ -39,7 +39,7 @@ sections:
         elementId: ''
       - type: Testimonial
         quote: '  KYLINE'
-        name: ''
+        name: KYLINE is an up and coming artist, wi
         title: ''
         image:
           type: ImageBlock
