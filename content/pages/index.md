@@ -68,7 +68,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: SEE ALL SERVICES
         url: /projects
     showDate: false
     showDescription: true
