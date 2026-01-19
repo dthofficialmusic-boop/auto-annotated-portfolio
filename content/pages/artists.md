@@ -4,7 +4,7 @@ title: ARTISTS
 sections:
   - type: TextSection
     title: ARTISTS
-    subtitle: OUR ROSTER IS UPDATED EVERY MONTH
+    subtitle: ''
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
