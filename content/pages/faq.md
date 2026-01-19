@@ -4,7 +4,7 @@ title: faq
 sections:
   - type: TextSection
     title: faq
-    subtitle: Frequently Asked Questions
+    subtitle: FREQUENTLY ASKED QUESTIONS
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
