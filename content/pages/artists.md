@@ -6,7 +6,7 @@ sections:
     title: ARTISTS
     subtitle: ''
     text: |+
-      Meet our wonderful Cotidor artists.
+      <div style="text-align: center">Meet our wonderful Cotidor artists.</div>
 
     colors: colors-b
     variant: variant-a
