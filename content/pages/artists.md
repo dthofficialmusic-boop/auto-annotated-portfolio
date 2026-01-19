@@ -21,26 +21,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: TextSection
-    title: KRISTOFFER LUCIO
-    subtitle: ARTIST OF COTIDOR
-    text: >
-      Kristoffer Lucio has risen to stardom with his new single "City of Lucio"
-      released this July 2025. Cotidor, along with his primary label — Lazgin
-      Records — has been a detrimental pillar to Lucio's success. 
-    colors: colors-b
-    variant: variant-b
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
