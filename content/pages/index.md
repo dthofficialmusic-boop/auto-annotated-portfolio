@@ -46,7 +46,7 @@ sections:
         label: INSTAGRAM
         url: https://www.instagram.com/thecotidor/
       - type: Label
-        label: ARTISTS
+        label: SERVICES
         url: ''
       - type: Label
         label: FAQ
