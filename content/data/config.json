@@ -72,7 +72,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "CONTACT",
                 "altText": "",
                 "url": "/contact",
                 "showIcon": false,
