@@ -5,12 +5,6 @@
         "type": "Footer",
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
                 "type": "Button",
                 "label": "HOME",
                 "altText": "",
