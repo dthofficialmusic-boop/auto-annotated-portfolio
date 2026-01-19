@@ -44,10 +44,7 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >-
-          Kristoffer Lucio has risen to stardom with his new single "City of
-          Lucio" released this July 2025. Cotidor, along with his primary label
-          — Lazgin Records — has been a detrimental pillar to Lucio's success.
+        quote: Kristoffer Lucio
         name: John Doe
         title: '  '
         image:
