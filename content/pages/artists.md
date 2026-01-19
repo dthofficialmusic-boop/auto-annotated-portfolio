@@ -39,7 +39,7 @@ sections:
         elementId: ''
       - type: Testimonial
         quote: '  '
-        name: Johnna Doe
+        name: KYLINE
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
