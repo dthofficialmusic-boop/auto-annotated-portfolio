@@ -24,7 +24,7 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: ''
+        quote: '  '
         name: John Doe
         title: CEO at Parks
         image:
