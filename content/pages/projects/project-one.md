@@ -5,9 +5,9 @@ colors: colors-c
 date: '2026-01-17'
 client: ''
 description: >-
-  Kristoffer Lucio has been a Cotidor artist since September 2025. Cotidor,
-  along with Kristoffer's primary label — Lazgin Records — have mobilized
-  Kristoffer into stardom.
+  The function of subscriber management is critical, and Cortidor administers
+  this for the platform comprehensively. It ensures audiences are not only
+  acquired but seamlessly integrated and consistently retained.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2026-01-19 173138.png
