@@ -39,7 +39,7 @@ sections:
         elementId: ''
       - type: Testimonial
         quote: '  '
-        name: KYLINE
+        name: ''
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
