@@ -47,7 +47,7 @@ sections:
         url: https://www.instagram.com/thecotidor/
       - type: Label
         label: SERVICES
-        url: ''
+        url: /projects
       - type: Label
         label: FAQ
         url: /faq
