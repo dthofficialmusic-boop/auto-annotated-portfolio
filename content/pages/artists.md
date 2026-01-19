@@ -45,6 +45,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+    title: ARTISTS
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
