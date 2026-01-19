@@ -40,7 +40,7 @@ sections:
       - type: Testimonial
         quote: '  '
         name: ''
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: /images/IMG_5670.jpg
