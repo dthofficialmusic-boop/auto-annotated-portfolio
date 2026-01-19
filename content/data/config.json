@@ -61,7 +61,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "ARTISTS",
                 "altText": "",
                 "url": "/artists",
                 "showIcon": false,
