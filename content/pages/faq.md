@@ -3,7 +3,7 @@ type: PageLayout
 title: faq
 sections:
   - type: TextSection
-    title: This in an empty page
+    title: faq
     subtitle: The section subtitle
     text: >-
       Start adding sections by clicking the + button on the page or through the
