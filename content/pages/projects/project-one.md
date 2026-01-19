@@ -58,5 +58,5 @@ bottomSections:
           - pr-4
         textAlign: left
 ---
-<div style="text-align: center">Visit his Spotify Profile and listen to his Single "City of Lucio"</div>
+<div style="text-align: center">Stream Kristoffer Lucio's single, "City of Lucio" on the following streaming platforms:</div>
 
