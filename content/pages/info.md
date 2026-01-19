@@ -35,27 +35,18 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: Contact
-        text: |+
-          For inquiries, the preferred way of contact is Email
-
-
-
+        text: |
           **General Inquiries**
 
-          info\@cotidor.com
-
-
+          <info@cotidor.com>
 
           **Artist Management & Recruitment**
 
-          artists\@cotidor.com
-
-
+          <artists@cotidor.com>
 
           **Strategic Partnerships & Brand Collaborations**
 
-          partnerships\@cotidor.com
-
+          <partnerships@cotidor.com>
         styles:
           self:
             textAlign: left
