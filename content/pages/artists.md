@@ -60,7 +60,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    title: KRISTOFFER LUCIO
+    title: ROSTER
     subtitle: ''
 addTitleSuffix: true
 colors: colors-a
