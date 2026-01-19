@@ -6,6 +6,8 @@ sections:
     title: ARTISTS
     subtitle: ARTIST CATALOG — UPDATED EVERY MONTH
     text: |+
+      <div style="text-align: left">HII</div>
+
       <div style="text-align: left"></div>
 
     colors: colors-b
