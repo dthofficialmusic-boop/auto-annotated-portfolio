@@ -63,7 +63,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - colors: colors-f
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
