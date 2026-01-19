@@ -49,7 +49,7 @@ sections:
           Lucio" released this July 2025. Cotidor, along with his primary label
           — Lazgin Records — has been a detrimental pillar to Lucio's success.
         name: John Doe
-        title: CEO at Parks
+        title: '  '
         image:
           type: ImageBlock
           url: /images/person-2.jpg
