@@ -5,9 +5,8 @@ colors: colors-a
 date: '2026-01-17'
 client: ''
 description: >-
-  The function of subscriber management is critical, and Cortidor administers
-  this for the platform comprehensively. It ensures audiences are not only
-  acquired but seamlessly integrated and consistently retained.
+  KRISTOFFER LUCIO HAS BEEN A COTIDOR ARTIST SINCE SEPTEMBER 2025. COTIDOR,
+  ALONG WITH KRISTOFFER'S PRIMARY LABEL s
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2026-01-19 173138.png
