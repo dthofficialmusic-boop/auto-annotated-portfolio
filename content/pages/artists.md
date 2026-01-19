@@ -28,6 +28,7 @@ sections:
       Kristoffer Lucio has risen to stardom with his new single "City of Lucio"
       released this July 2025. Cotidor, along with his primary label — Lazgin
       Records — has been a detrimental pillar to Lucio's success.
+      ![](/images/Screenshot%202026-01-19%20173138.png)
     colors: colors-b
     variant: variant-b
     elementId: ''
