@@ -78,10 +78,10 @@ sections:
         height: screen
         width: wide
         padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
         textAlign: left
 addTitleSuffix: true
 colors: colors-a
