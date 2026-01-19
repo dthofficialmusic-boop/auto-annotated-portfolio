@@ -5,8 +5,9 @@ colors: colors-a
 date: '2026-01-17'
 client: ''
 description: >-
-  KRISTOFFER LUCIO HAS BEEN A COTIDOR ARTIST SINCE SEPTEMBER 2025. COTIDOR,
-  ALONG WITH KRISTOFFER'S PRIMARY LABEL s
+  Kristoffer Lucio has been a Cotidor artist since September 2025. Cotidor,
+  along with Kristoffer's primary label — Lazgin Records — have mobilized
+  Kristoffer into stardom.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2026-01-19 173138.png
