@@ -62,6 +62,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: KRISTOFFER LUCIO
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
