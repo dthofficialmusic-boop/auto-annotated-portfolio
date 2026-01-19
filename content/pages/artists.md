@@ -9,7 +9,7 @@ sections:
       Meet our wonderful Cotidor artists.
 
     colors: colors-b
-    variant: variant-a
+    variant: variant-b
     elementId: ''
     styles:
       self:
