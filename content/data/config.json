@@ -25,7 +25,7 @@
                 "showIcon": false,
                 "icon": "apple",
                 "iconPosition": "right",
-                "style": "secondary",
+                "style": "primary",
                 "elementId": ""
             }
         ],
