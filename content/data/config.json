@@ -18,7 +18,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "HOME",
                 "altText": "",
                 "url": "/Home",
                 "showIcon": false,
