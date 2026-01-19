@@ -2,29 +2,6 @@
 type: PageLayout
 title: ARTISTS
 sections:
-  - type: TextSection
-    title: ARTISTS
-    subtitle: >-
-      THE COTIDOR ARTIST CATALOG IS UPDATED EVERY MONTH. THE LIST UPDATES EVERY
-      19TH.
-    text: |+
-      <div style="text-align: left"></div>
-
-      <div style="text-align: left"></div>
-
-    colors: colors-b
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
