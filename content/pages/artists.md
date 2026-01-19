@@ -45,7 +45,7 @@ sections:
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
-          url: /images/Screenshot 2026-01-19 175505.png
+          url: /images/IMG_5670.jpg
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
