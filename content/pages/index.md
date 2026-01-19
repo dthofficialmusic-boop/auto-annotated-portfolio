@@ -53,7 +53,7 @@ sections:
         url: /faq
       - type: Label
         label: ARTISTS
-        url: ''
+        url: /artists
       - type: Label
         label: CONTACT
         url: ''
