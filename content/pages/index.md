@@ -51,6 +51,9 @@ sections:
       - type: Label
         label: FAQ
         url: /faq
+      - type: Label
+        label: ARTISTS
+        url: ''
     colors: colors-a
     elementId: ''
     styles:
