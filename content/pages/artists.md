@@ -46,6 +46,7 @@ sections:
           - pr-4
         textAlign: center
     title: ARTISTS
+    subtitle: OUR ARTIST CATALOG UPDATES EVERY MONTH. THE CATALOG UPDATES EVERY 19TH.
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
