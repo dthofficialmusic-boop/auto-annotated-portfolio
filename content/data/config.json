@@ -19,7 +19,7 @@
                 "type": "Button",
                 "label": "ABOUT",
                 "altText": "",
-                "url": "/About",
+                "url": "/info",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
