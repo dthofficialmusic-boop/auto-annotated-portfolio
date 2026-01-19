@@ -104,7 +104,7 @@ sections:
   - type: ContactSection
     backgroundSize: full
     title: Let’s talk... 💬
-    colors: colors-b
+    colors: colors-e
     form:
       type: FormBlock
       elementId: sign-up-form
