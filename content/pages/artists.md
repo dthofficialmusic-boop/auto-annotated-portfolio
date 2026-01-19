@@ -8,7 +8,7 @@ sections:
     text: |+
       Meet our wonderful Cotidor artists.
 
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     elementId: ''
     styles:
