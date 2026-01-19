@@ -54,6 +54,9 @@ sections:
       - type: Label
         label: ARTISTS
         url: ''
+      - type: Label
+        label: CONTACT
+        url: ''
     colors: colors-a
     elementId: ''
     styles:
