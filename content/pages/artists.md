@@ -21,38 +21,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-  - type: FeaturedProjectsSection
-    subtitle: ARTISTS
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-    colors: colors-b
-    variant: variant-d
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
