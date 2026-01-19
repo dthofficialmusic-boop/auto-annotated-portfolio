@@ -39,7 +39,10 @@ sections:
         elementId: ''
       - type: Testimonial
         quote: '  KYLINE'
-        name: KYLINE is an up and coming artist, wi
+        name: >-
+          KYLINE is an up-and-coming artist, with a project underway — she is a
+          fresh example of a contemporary artist, exploring new concepts and
+          sounds.
         title: ''
         image:
           type: ImageBlock
