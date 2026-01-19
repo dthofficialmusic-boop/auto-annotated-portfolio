@@ -4,7 +4,7 @@ title: ARTISTS
 sections:
   - type: TextSection
     title: ARTISTS
-    subtitle: ''
+    subtitle: ARTIST CATALOG — UPDATED EVERY MONTH
     text: |+
       <div style="text-align: left"></div>
 
