@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: KRISTOFFER LUCIO
-colors: colors-b
+colors: colors-c
 date: '2026-01-17'
 client: ''
 description: >-
