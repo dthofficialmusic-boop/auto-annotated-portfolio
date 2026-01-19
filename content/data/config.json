@@ -17,7 +17,7 @@
             },
             {
                 "type": "Button",
-                "label": "ABOUT",
+                "label": "INFO",
                 "altText": "",
                 "url": "/info",
                 "showIcon": false,
