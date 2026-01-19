@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2026-01-19 173138.png
   altText: Project image
 ---
 <div style="text-align: center">Visit his Spotify Profile and listen to his Single "City of Lucio"</div>
