@@ -50,7 +50,7 @@
             },
             {
                 "type": "Button",
-                "label": "Learn more",
+                "label": "FAQ",
                 "altText": "",
                 "url": "/faq",
                 "showIcon": false,
