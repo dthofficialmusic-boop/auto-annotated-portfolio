@@ -3,7 +3,7 @@ type: ProjectLayout
 title: KRISTOFFER LUCIO
 colors: colors-a
 date: '2026-01-17'
-client: Yllona Madison Ebanks
+client: ''
 description: >-
   The function of subscriber management is critical, and Cortidor administers
   this for the platform comprehensively. It ensures audiences are not only
