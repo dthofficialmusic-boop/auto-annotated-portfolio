@@ -38,7 +38,7 @@ sections:
           elementId: ''
         elementId: ''
       - type: Testimonial
-        quote: '  '
+        quote: '  KYLINE'
         name: ''
         title: ''
         image:
