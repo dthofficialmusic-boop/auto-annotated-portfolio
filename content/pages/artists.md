@@ -6,7 +6,7 @@ sections:
     title: ARTISTS
     subtitle: ''
     text: |+
-      <div style="text-align: left">Meet our wonderful Cotidor artists.</div>
+      <div style="text-align: left"></div>
 
     colors: colors-b
     variant: variant-a
