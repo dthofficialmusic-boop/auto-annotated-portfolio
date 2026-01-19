@@ -30,7 +30,7 @@
                 "type": "Button",
                 "label": "SERVICES",
                 "altText": "",
-                "url": "/Project",
+                "url": "/Projects",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
