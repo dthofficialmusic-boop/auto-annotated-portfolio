@@ -63,6 +63,7 @@ sections:
           - pr-4
         textAlign: left
     title: KRISTOFFER LUCIO
+    subtitle: 'Kristoffer Lucio has risen to stardom with his new single "City of Lucio" '
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
