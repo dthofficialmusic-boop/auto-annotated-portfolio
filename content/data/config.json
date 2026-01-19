@@ -8,7 +8,7 @@
                 "type": "Button",
                 "label": "HOME",
                 "altText": "",
-                "url": "/Home",
+                "url": "/info",
                 "showIcon": false,
                 "icon": "",
                 "iconPosition": "right",
