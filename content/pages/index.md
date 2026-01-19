@@ -41,7 +41,7 @@ sections:
     items:
       - type: Label
         label: INFO
-        url: ''
+        url: /about
       - type: Label
         label: INSTAGRAM
         url: https://www.instagram.com/thecotidor/
