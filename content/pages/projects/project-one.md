@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: GUIDANCE
+title: KRISTOFFER LUCIO
 colors: colors-a
 date: '2026-01-17'
 client: Yllona Madison Ebanks
