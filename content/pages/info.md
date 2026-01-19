@@ -58,7 +58,7 @@ sections:
 
         styles:
           self:
-            textAlign: center
+            textAlign: left
       - type: FeaturedItem
         subtitle: Physical Offices
         text: >+
