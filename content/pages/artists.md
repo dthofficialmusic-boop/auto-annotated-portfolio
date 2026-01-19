@@ -22,7 +22,7 @@ sections:
           - pr-4
         textAlign: left
   - type: TextSection
-    title: The Section Title
+    title: KRISTOFFER LUCIO
     subtitle: The section subtitle
     text: >
       Kristoffer Lucio has risen to stardom with his new single "City of Lucio"
