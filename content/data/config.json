@@ -14,7 +14,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:info@cotidor.com",
-                "altText": ""
+                "altText": "",
+                "icon": "apple"
             },
             {
                 "type": "Button",
