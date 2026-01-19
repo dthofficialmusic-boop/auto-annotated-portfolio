@@ -120,7 +120,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: social media
-          label: Address
+          label: Social Media
           hideLabel: true
           placeholder: Address
           isRequired: true
