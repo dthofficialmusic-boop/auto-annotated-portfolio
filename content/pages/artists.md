@@ -4,7 +4,9 @@ title: ARTISTS
 sections:
   - type: TextSection
     title: ARTISTS
-    subtitle: ARTIST CATALOG — UPDATED EVERY MONTH
+    subtitle: >-
+      THE COTIDOR ARTIST CATALOG IS UPDATED EVERY MONTH. THE LIST UPDATES EVERY
+      19TH.
     text: |+
       <div style="text-align: left"></div>
 
