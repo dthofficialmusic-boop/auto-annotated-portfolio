@@ -22,7 +22,7 @@
                 "label": "HOME",
                 "altText": "",
                 "url": "/Home",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "apple",
                 "iconPosition": "right",
                 "style": "primary",
