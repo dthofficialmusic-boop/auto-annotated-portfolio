@@ -31,7 +31,7 @@ sections:
         textAlign: left
     type: HeroSection
   - type: FeaturedItemsSection
-    colors: colors-e
+    colors: colors-b
     items:
       - type: FeaturedItem
         subtitle: Contact
