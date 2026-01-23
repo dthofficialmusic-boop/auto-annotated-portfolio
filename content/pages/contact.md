@@ -43,24 +43,6 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        flexDirection: row
-        textAlign: left
   - type: ContactSection
     title: SUPPORT TICKET FORM
     text: ''
