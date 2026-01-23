@@ -32,7 +32,7 @@ sections:
           caption: Caption of the image
           elementId: ''
         elementId: ''
-    colors: colors-b
+    colors: colors-a
     variant: variant-a
     elementId: ''
     styles:
