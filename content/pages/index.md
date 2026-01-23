@@ -163,26 +163,18 @@ sections:
       - type: FeaturedItem
         title: EMAIL(S)
         subtitle: ''
-        text: |+
+        text: |
           **General Inquiries**
-
 
           <info@cotidor.com>
 
-
-
           **Artist Management & Recruitment**
-
 
           <artists@cotidor.com>
 
+          **Administration & Internal Affairs**
 
-
-          **Strategic Partnerships & Brand Collaborations**
-
-
-          <partners@cotidor.com>
-
+          admin[@cotidor.com ](mailto:partners@cotidor.com)
         actions: []
         elementId: ''
         styles:
