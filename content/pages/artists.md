@@ -64,19 +64,6 @@ sections:
           caption: Caption of the image
           elementId: ''
         elementId: ''
-      - type: Testimonial
-        quote: >-
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
-        name: Johnna Doe
-        title: Product Marketing Manager at Acme
-        image:
-          type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
     colors: colors-f
     variant: variant-a
     elementId: ''
