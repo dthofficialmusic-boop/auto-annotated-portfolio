@@ -77,7 +77,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-    title: Eric Janiel
+    title: ''
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
