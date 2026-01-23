@@ -75,7 +75,7 @@ sections:
       styles:
         self:
           textAlign: center
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     elementId: ''
     styles:
