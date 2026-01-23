@@ -10,7 +10,7 @@ description: >-
   acquired but seamlessly integrated and consistently retained.
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot 2026-01-19 173138.png
+  url: /images/bg2.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
