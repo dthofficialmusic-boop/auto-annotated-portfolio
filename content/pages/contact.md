@@ -5,18 +5,28 @@ sections:
   - type: HeroSection
     title: MeDIUMS OF CONTACT
     subtitle: You may contact us via email
-    text: |+
+    text: >+
       **General Inquiries**
+
 
       <info@cotidor.com>
 
+
       **Artist Management & Recruitment**
+
 
       <artists@cotidor.com>
 
+
       **Administration & Internal Affairs**
 
+
       <admin@cotidor.com>
+
+
+      All emails sent to the said email addresses are to subject to a response
+      in 1 - 3 days. Alternatively, you may send a support ticket through the
+      portal below. 
 
     actions: []
     colors: colors-f
