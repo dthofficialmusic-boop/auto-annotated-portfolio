@@ -4,7 +4,7 @@ title: contact
 sections:
   - type: HeroSection
     title: MeDIUMS OF CONTACT
-    subtitle: You may contact us via email or by submitting a support ticket.
+    subtitle: You may contact us via email
     text: |+
       **General Inquiries**
 
