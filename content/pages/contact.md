@@ -67,7 +67,7 @@ sections:
           name: message
           label: Tell me about your project
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell us about your inquiry...
           width: full
           isRequired: true
       submitLabel: Submit 🚀
