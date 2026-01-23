@@ -5,11 +5,21 @@ sections:
   - type: HeroSection
     title: MeDIUMS OF CONTACT
     subtitle: You may contact us via email or by submitting a support ticket.
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      **General Inquiries**
+
+      <info@cotidor.com>
+
+      **Artist Management & Recruitment**
+
+      <artists@cotidor.com>
+
+      **Administration & Internal Affairs**
+
+      admin[@cotidor.com ](mailto:partners@cotidor.com)
+
+
+
     actions: []
     colors: colors-f
     backgroundSize: full
