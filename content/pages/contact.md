@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: MeDIUMS OF CONTACT
     subtitle: You may contact us via email or by submitting a support ticket.
-    text: |+
+    text: |
       **General Inquiries**
 
       <info@cotidor.com>
@@ -16,10 +16,9 @@ sections:
 
       **Administration & Internal Affairs**
 
-      admin[@cotidor.com ](mailto:partners@cotidor.com)
+      admin\@cotidor.com
 
-
-
+      [ ](mailto:partners@cotidor.com)
     actions: []
     colors: colors-f
     backgroundSize: full
