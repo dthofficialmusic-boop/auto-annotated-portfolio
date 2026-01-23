@@ -54,7 +54,7 @@ sections:
       - type: Testimonial
         quote: Eric Janiel
         name: John Doe
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/person-2.jpg
