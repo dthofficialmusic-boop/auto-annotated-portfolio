@@ -53,7 +53,10 @@ sections:
     testimonials:
       - type: Testimonial
         quote: Eric Janiel
-        name: John Doe
+        name: >-
+          Eric Janiel was one of the first artists that is signed with Cotidor.
+          His smash hit "Reminiscing My Old Memories" in 2020 has propelled him
+          to fame.
         title: ''
         image:
           type: ImageBlock
