@@ -11,12 +11,12 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: COTIDOR—A MODERN TAKE on music
     subtitle: >-
-      COTIDOR IS AN INDEPENDENT MUSIC MANAGEMENT COMPANY AIMING TO UPLIFT AND
-      EMPOWER ARTISTS.
+      WE ARE AN ARTIST DEVELOPMENT COLLECTIVE AIMING TO EMPOWER, GUIDE, AND
+      TRANSFORM ARTISTS—ON THEIR OWN TERMS.
     styles:
       self:
         height: auto
@@ -35,12 +35,46 @@ sections:
         textAlign: center
     type: HeroSection
     actions: []
-  - colors: colors-f
+  - type: LabelsSection
+    title: ''
+    subtitle: ''
+    items:
+      - type: Label
+        label: INFO
+        url: /info
+      - type: Label
+        label: INSTAGRAM
+        url: https://www.instagram.com/thecotidor/
+      - type: Label
+        label: SERVICES
+        url: /projects
+      - type: Label
+        label: FAQ
+        url: /faq
+      - type: Label
+        label: ARTISTS
+        url: /artists
+      - type: Label
+        label: CONTACT
+        url: /contact
+    colors: colors-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
+  - colors: colors-a
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: SEE ALL SERVICES
         url: /projects
     showDate: false
     showDescription: true
@@ -91,10 +125,10 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: social media
+          label: Social Media
           hideLabel: true
-          placeholder: Address
+          placeholder: Social Media
           isRequired: true
           width: 1/2
           type: TextFormControl
@@ -129,26 +163,18 @@ sections:
       - type: FeaturedItem
         title: EMAIL(S)
         subtitle: ''
-        text: |+
+        text: |
           **General Inquiries**
-
 
           <info@cotidor.com>
 
-
-
           **Artist Management & Recruitment**
-
 
           <artists@cotidor.com>
 
+          **Administration & Internal Affairs**
 
-
-          **Strategic Partnerships & Brand Collaborations**
-
-
-          <partners@cotidor.com>
-
+          admin[@cotidor.com ](mailto:partners@cotidor.com)
         actions: []
         elementId: ''
         styles:

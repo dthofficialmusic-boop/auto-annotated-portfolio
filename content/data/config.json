@@ -1,20 +1,85 @@
 {
     "type": "Config",
-    "favicon": "/images/IMG_5663.png",
+    "favicon": "/images/cotidorb.png",
     "footer": {
         "type": "Footer",
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
+                "type": "Button",
+                "label": "HOME",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             },
             {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "type": "Button",
+                "label": "INFO",
+                "altText": "",
+                "url": "/info",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "SERVICES",
+                "altText": "",
+                "url": "/projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "INSTAGRAM",
+                "altText": "",
+                "url": "https://www.instagram.com/thecotidor/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "FAQ",
+                "altText": "",
+                "url": "/faq",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "ARTISTS",
+                "altText": "",
+                "url": "/artists",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
+                "label": "CONTACT",
+                "altText": "",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "contacts": {
@@ -27,7 +92,7 @@
             "address": "40 Frank Sound Rd. North Side Grand Cayman",
             "addressAltText": "My address"
         },
-        "copyrightText": "© Cotidor, a subsidiary\n\nof KY Music\n",
+        "copyrightText": "© 2026 Cotidor Music\n",
         "styles": {
             "self": {
                 "width": "narrow",
